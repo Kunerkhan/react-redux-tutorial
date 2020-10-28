@@ -13,7 +13,7 @@ export  default ( ) => {
 
     // const posts = useSelector((state) => {
     //     return state.posts.fetchPosts
-    // })it
+    // })
 
     if (loading) {
         return <Loader />
